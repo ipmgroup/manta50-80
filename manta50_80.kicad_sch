@@ -3332,9 +3332,17 @@
     (uuid f6a4b298-aaeb-4bda-b9f3-a4a67115ff20)
   )
 
+  (no_connect (at 62.23 246.38) (uuid 14deecaf-06a4-4011-91d4-2b1cd1bb1293))
+  (no_connect (at 62.23 248.92) (uuid 3929058c-3dc5-4f7d-94ab-1245b2ef82e4))
   (no_connect (at 39.37 41.91) (uuid 7213b015-7e22-4864-8d76-3fb75e401a0e))
   (no_connect (at 198.12 223.3422) (uuid 86f6d5b7-3812-4414-b0e0-f206d230dd79))
+  (no_connect (at 102.87 251.46) (uuid 94c51114-f619-45b7-b45f-c408e806b557))
+  (no_connect (at 62.23 218.44) (uuid a68cf8d6-579a-466e-bacf-ba2863c1caaf))
+  (no_connect (at 62.23 241.3) (uuid c0d57aa7-a384-4f4b-b5e3-548f3e61bd59))
+  (no_connect (at 62.23 228.6) (uuid d1f03f73-e2a4-46a5-809c-b60ea68d0c69))
+  (no_connect (at 102.87 213.36) (uuid de1a426a-af57-4827-83a3-f915dc63e7ba))
   (no_connect (at 198.12 230.9622) (uuid e9d06105-ff31-4a63-8253-dd1bdc4e342b))
+  (no_connect (at 102.87 215.9) (uuid fdcb1523-27ff-4a78-a97a-804305e3d8cc))
 
   (wire (pts (xy 62.23 256.54) (xy 49.53 256.54))
     (stroke (width 0.254) (type default))
@@ -5206,7 +5214,7 @@
   (symbol (lib_id "MOTOR-altium-import:PVDD") (at 59.69 114.3 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 019a3ef1-1b87-4908-8b4f-e2f7b0d65744)
-    (property "Reference" "#PWR?" (at 59.69 114.3 0)
+    (property "Reference" "#PWR0132" (at 59.69 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PVDD" (at 59.69 110.49 0)
@@ -5222,7 +5230,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0132") (unit 1)
         )
       )
     )
@@ -5370,7 +5378,7 @@
   (symbol (lib_id "MOTOR-altium-import:PVDD") (at 276.86 40.64 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0280bead-1978-4e8a-ab51-642fc288302d)
-    (property "Reference" "#PWR?" (at 276.86 40.64 0)
+    (property "Reference" "#PWR0143" (at 276.86 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PVDD" (at 276.86 36.83 0)
@@ -5386,7 +5394,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0143") (unit 1)
         )
       )
     )
@@ -5651,7 +5659,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 287.02 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 04253dfc-1899-479c-9ba3-e84087823983)
-    (property "Reference" "#PWR?" (at 287.02 55.88 0)
+    (property "Reference" "#PWR0142" (at 287.02 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 287.02 62.23 0)
@@ -5667,7 +5675,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0142") (unit 1)
         )
       )
     )
@@ -5676,7 +5684,7 @@
   (symbol (lib_id "MOTOR-altium-import:PVDD") (at 31.75 34.29 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 050258b1-3ff6-4f8c-b8cf-b499d2dd1d8f)
-    (property "Reference" "#PWR?" (at 31.75 34.29 0)
+    (property "Reference" "#PWR0139" (at 31.75 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PVDD" (at 31.75 30.48 0)
@@ -5692,7 +5700,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0139") (unit 1)
         )
       )
     )
@@ -5701,7 +5709,7 @@
   (symbol (lib_id "MOTOR-altium-import:PVDD") (at 128.27 57.15 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0660fa39-cc8b-4a9b-914d-b6764792da1d)
-    (property "Reference" "#PWR?" (at 128.27 57.15 0)
+    (property "Reference" "#PWR0126" (at 128.27 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PVDD" (at 128.27 53.34 0)
@@ -5717,7 +5725,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0126") (unit 1)
         )
       )
     )
@@ -5851,7 +5859,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 77.47 54.61 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 07d5b1c2-3032-46da-8277-2b1c50825112)
-    (property "Reference" "#PWR?" (at 77.47 54.61 0)
+    (property "Reference" "#PWR0137" (at 77.47 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 77.47 60.96 0)
@@ -5867,7 +5875,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0137") (unit 1)
         )
       )
     )
@@ -5876,7 +5884,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 160.02 236.0422 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 08c33156-49a1-4d50-8ed4-8bfd622aab15)
-    (property "Reference" "#PWR?" (at 160.02 236.0422 0)
+    (property "Reference" "#PWR0112" (at 160.02 236.0422 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 160.02 242.3922 0)
@@ -5892,7 +5900,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0112") (unit 1)
         )
       )
     )
@@ -6553,7 +6561,7 @@
   (symbol (lib_id "MOTOR-altium-import:3.3V") (at 171.45 260.35 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1b566b7b-ef04-43e4-be4f-ddb878ba598f)
-    (property "Reference" "#PWR?" (at 171.45 260.35 0)
+    (property "Reference" "#PWR0111" (at 171.45 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 171.45 256.54 0)
@@ -6569,7 +6577,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0111") (unit 1)
         )
       )
     )
@@ -6676,7 +6684,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 36.83 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1d1ed999-5a9a-471d-9219-a1361d5c0b82)
-    (property "Reference" "#PWR?" (at 36.83 92.71 0)
+    (property "Reference" "#PWR0134" (at 36.83 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 36.83 99.06 0)
@@ -6692,7 +6700,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0134") (unit 1)
         )
       )
     )
@@ -6701,7 +6709,7 @@
   (symbol (lib_id "MOTOR-altium-import:PVDD") (at 232.41 74.93 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1d1f539b-0de3-4d33-997e-dbe5a3c4867b)
-    (property "Reference" "#PWR?" (at 232.41 74.93 0)
+    (property "Reference" "#PWR0110" (at 232.41 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PVDD" (at 232.41 71.12 0)
@@ -6717,7 +6725,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0110") (unit 1)
         )
       )
     )
@@ -6726,7 +6734,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 250.19 250.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1fae5ae8-a9ea-4bec-b9d2-3798c33a2a0a)
-    (property "Reference" "#PWR?" (at 250.19 250.19 0)
+    (property "Reference" "#PWR0105" (at 250.19 250.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 250.19 256.54 0)
@@ -6742,7 +6750,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0105") (unit 1)
         )
       )
     )
@@ -7072,7 +7080,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 64.77 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 24f83355-fbcf-4c4f-b8b4-ff0bd4db40a6)
-    (property "Reference" "#PWR?" (at 64.77 180.34 0)
+    (property "Reference" "#PWR0117" (at 64.77 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 64.77 186.69 0)
@@ -7088,7 +7096,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0117") (unit 1)
         )
       )
     )
@@ -7195,7 +7203,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 207.01 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 26fa1edb-81a9-4769-a359-686c5f3f6ef2)
-    (property "Reference" "#PWR?" (at 207.01 179.07 0)
+    (property "Reference" "#PWR0104" (at 207.01 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 207.01 185.42 0)
@@ -7211,7 +7219,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0104") (unit 1)
         )
       )
     )
@@ -7735,7 +7743,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 118.11 269.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d0b1b61-d016-439e-94c3-a7d94abffde0)
-    (property "Reference" "#PWR?" (at 118.11 269.24 0)
+    (property "Reference" "#PWR0121" (at 118.11 269.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 118.11 275.59 0)
@@ -7751,7 +7759,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0121") (unit 1)
         )
       )
     )
@@ -7760,7 +7768,7 @@
   (symbol (lib_id "MOTOR-altium-import:3.3V") (at 36.83 62.23 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2e3544c6-4ea0-4395-b423-7c99b320b6db)
-    (property "Reference" "#PWR?" (at 36.83 62.23 0)
+    (property "Reference" "#PWR0141" (at 36.83 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 36.83 58.42 0)
@@ -7776,7 +7784,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0141") (unit 1)
         )
       )
     )
@@ -8690,7 +8698,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 113.03 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4e205c4e-78e8-4b9f-898f-e9cfafeb2ff7)
-    (property "Reference" "#PWR?" (at 113.03 179.07 0)
+    (property "Reference" "#PWR0122" (at 113.03 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 113.03 185.42 0)
@@ -8706,7 +8714,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0122") (unit 1)
         )
       )
     )
@@ -8884,7 +8892,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 59.69 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5205d24f-c39e-42ff-85ad-52c1b4c109c7)
-    (property "Reference" "#PWR?" (at 59.69 132.08 0)
+    (property "Reference" "#PWR0130" (at 59.69 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 59.69 138.43 0)
@@ -8900,7 +8908,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0130") (unit 1)
         )
       )
     )
@@ -8909,7 +8917,7 @@
   (symbol (lib_id "MOTOR-altium-import:3.3V") (at 57.15 62.23 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 54ec3bce-ca61-4ebe-b009-afb85dcda7b6)
-    (property "Reference" "#PWR?" (at 57.15 62.23 0)
+    (property "Reference" "#PWR0138" (at 57.15 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 57.15 58.42 0)
@@ -8925,7 +8933,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0138") (unit 1)
         )
       )
     )
@@ -9361,7 +9369,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 26.67 243.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5b0cbc31-2370-4017-8117-6589288b357a)
-    (property "Reference" "#PWR?" (at 26.67 243.84 0)
+    (property "Reference" "#PWR0116" (at 26.67 243.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 26.67 250.19 0)
@@ -9377,7 +9385,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0116") (unit 1)
         )
       )
     )
@@ -9386,7 +9394,7 @@
   (symbol (lib_id "MOTOR-altium-import:3.3V") (at 222.25 67.31 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5bc66426-1d6a-4a32-aebf-8175fae17610)
-    (property "Reference" "#PWR?" (at 222.25 67.31 0)
+    (property "Reference" "#PWR0109" (at 222.25 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 222.25 63.5 0)
@@ -9402,7 +9410,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0109") (unit 1)
         )
       )
     )
@@ -9545,7 +9553,7 @@
   (symbol (lib_id "MOTOR-altium-import:3.3V") (at 113.03 171.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5c539bcb-1684-4f48-b2a5-7b33949f080f)
-    (property "Reference" "#PWR?" (at 113.03 171.45 0)
+    (property "Reference" "#PWR0136" (at 113.03 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 113.03 167.64 0)
@@ -9561,7 +9569,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0136") (unit 1)
         )
       )
     )
@@ -10439,7 +10447,7 @@
   (symbol (lib_id "MOTOR-altium-import:PVDD") (at 368.3 40.64 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 69a5468e-1d86-4ebf-a2a7-9423142d024b)
-    (property "Reference" "#PWR?" (at 368.3 40.64 0)
+    (property "Reference" "#PWR0148" (at 368.3 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PVDD" (at 368.3 36.83 0)
@@ -10455,7 +10463,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0148") (unit 1)
         )
       )
     )
@@ -11317,7 +11325,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 44.45 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7de3dbf0-9485-4bbe-8937-d5a396d24a0b)
-    (property "Reference" "#PWR?" (at 44.45 180.34 0)
+    (property "Reference" "#PWR0118" (at 44.45 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 44.45 186.69 0)
@@ -11333,7 +11341,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0118") (unit 1)
         )
       )
     )
@@ -11500,7 +11508,7 @@
   (symbol (lib_id "MOTOR-altium-import:PVDD") (at 322.58 40.64 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 80273943-769f-4146-86ac-7c8385d6d826)
-    (property "Reference" "#PWR?" (at 322.58 40.64 0)
+    (property "Reference" "#PWR0149" (at 322.58 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PVDD" (at 322.58 36.83 0)
@@ -11516,7 +11524,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0149") (unit 1)
         )
       )
     )
@@ -11768,7 +11776,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 54.61 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 85cc1a84-c235-4f2d-95a6-85d2feea4611)
-    (property "Reference" "#PWR?" (at 54.61 180.34 0)
+    (property "Reference" "#PWR0119" (at 54.61 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 54.61 186.69 0)
@@ -11784,7 +11792,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0119") (unit 1)
         )
       )
     )
@@ -11927,7 +11935,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 322.58 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 88774afb-428f-437e-91c7-7d83c785bfe5)
-    (property "Reference" "#PWR?" (at 322.58 114.3 0)
+    (property "Reference" "#PWR0151" (at 322.58 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 322.58 120.65 0)
@@ -11943,7 +11951,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0151") (unit 1)
         )
       )
     )
@@ -11999,7 +12007,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 128.27 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8b6896fc-87f5-43d0-a54d-0de35c46392a)
-    (property "Reference" "#PWR?" (at 128.27 67.31 0)
+    (property "Reference" "#PWR0129" (at 128.27 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 128.27 73.66 0)
@@ -12015,7 +12023,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0129") (unit 1)
         )
       )
     )
@@ -12084,7 +12092,7 @@
   (symbol (lib_id "MOTOR-altium-import:3.3V") (at 133.35 223.52 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 91c8bc15-f4ea-4039-b33f-d162d6ff93ca)
-    (property "Reference" "#PWR?" (at 133.35 223.52 0)
+    (property "Reference" "#PWR0113" (at 133.35 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 133.35 219.71 0)
@@ -12100,7 +12108,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0113") (unit 1)
         )
       )
     )
@@ -12275,7 +12283,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 365.76 238.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 977736d8-213b-4f5c-95a2-225fc3968933)
-    (property "Reference" "#PWR?" (at 365.76 238.76 0)
+    (property "Reference" "#PWR0102" (at 365.76 238.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 365.76 245.11 0)
@@ -12291,7 +12299,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0102") (unit 1)
         )
       )
     )
@@ -12300,7 +12308,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 123.19 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9847d31f-699b-4c81-9a0c-a8f41df26cfc)
-    (property "Reference" "#PWR?" (at 123.19 62.23 0)
+    (property "Reference" "#PWR0128" (at 123.19 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 123.19 68.58 0)
@@ -12316,7 +12324,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0128") (unit 1)
         )
       )
     )
@@ -12834,7 +12842,7 @@
   (symbol (lib_id "MOTOR-altium-import:3.3V") (at 250.19 214.63 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a0f99d3c-444a-4f04-9ef3-a716612d90dd)
-    (property "Reference" "#PWR?" (at 250.19 214.63 0)
+    (property "Reference" "#PWR0106" (at 250.19 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 250.19 210.82 0)
@@ -12850,7 +12858,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0106") (unit 1)
         )
       )
     )
@@ -12859,7 +12867,7 @@
   (symbol (lib_id "MOTOR-altium-import:3.3V") (at 378.46 182.88 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a184db29-758f-4528-ad64-5da83f7616e6)
-    (property "Reference" "#PWR?" (at 378.46 182.88 0)
+    (property "Reference" "#PWR0108" (at 378.46 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 378.46 179.07 0)
@@ -12875,7 +12883,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0108") (unit 1)
         )
       )
     )
@@ -13227,7 +13235,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 31.75 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ade7aa59-633a-4783-b4aa-1061833761b6)
-    (property "Reference" "#PWR?" (at 31.75 46.99 0)
+    (property "Reference" "#PWR0140" (at 31.75 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 31.75 53.34 0)
@@ -13243,7 +13251,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0140") (unit 1)
         )
       )
     )
@@ -13484,7 +13492,7 @@
   (symbol (lib_id "MOTOR-altium-import:3.3V") (at 26.67 220.98 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b29f5822-cbea-4084-bd0b-ff4ddc939e0d)
-    (property "Reference" "#PWR?" (at 26.67 220.98 0)
+    (property "Reference" "#PWR0120" (at 26.67 220.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 26.67 217.17 0)
@@ -13500,7 +13508,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0120") (unit 1)
         )
       )
     )
@@ -13643,7 +13651,7 @@
   (symbol (lib_id "MOTOR-altium-import:3.3V") (at 160.02 218.2622 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b6481d90-bee1-4386-8e59-f21afaea1e7d)
-    (property "Reference" "#PWR?" (at 160.02 218.2622 0)
+    (property "Reference" "#PWR0115" (at 160.02 218.2622 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 160.02 214.4522 0)
@@ -13659,7 +13667,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0115") (unit 1)
         )
       )
     )
@@ -13668,7 +13676,7 @@
   (symbol (lib_id "MOTOR-altium-import:3.3V") (at 365.76 223.52 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b868b2b7-9372-48ea-b916-2d12c1351914)
-    (property "Reference" "#PWR?" (at 365.76 223.52 0)
+    (property "Reference" "#PWR0103" (at 365.76 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 365.76 219.71 0)
@@ -13684,7 +13692,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0103") (unit 1)
         )
       )
     )
@@ -13934,7 +13942,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 72.39 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bc3facf8-2b4e-4d09-9daf-92c48b14c57a)
-    (property "Reference" "#PWR?" (at 72.39 137.16 0)
+    (property "Reference" "#PWR0131" (at 72.39 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 72.39 143.51 0)
@@ -13950,7 +13958,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0131") (unit 1)
         )
       )
     )
@@ -14057,7 +14065,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 396.24 241.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c26bb4c0-7510-4cbd-90f3-679a19af4fe6)
-    (property "Reference" "#PWR?" (at 396.24 241.3 0)
+    (property "Reference" "#PWR0101" (at 396.24 241.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 396.24 247.65 0)
@@ -14073,7 +14081,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0101") (unit 1)
         )
       )
     )
@@ -14116,7 +14124,7 @@
   (symbol (lib_id "MOTOR-altium-import:PVDD") (at 133.35 158.75 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c4b06057-0085-4b0e-9439-b3c303276b79)
-    (property "Reference" "#PWR?" (at 133.35 158.75 0)
+    (property "Reference" "#PWR0135" (at 133.35 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PVDD" (at 133.35 154.94 0)
@@ -14132,7 +14140,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0135") (unit 1)
         )
       )
     )
@@ -14141,7 +14149,7 @@
   (symbol (lib_id "MOTOR-altium-import:3.3V") (at 100.33 34.29 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ca8c8e11-3c6c-44fc-b0a9-458b86e82766)
-    (property "Reference" "#PWR?" (at 100.33 34.29 0)
+    (property "Reference" "#PWR0125" (at 100.33 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V" (at 100.33 30.48 0)
@@ -14157,7 +14165,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0125") (unit 1)
         )
       )
     )
@@ -14166,7 +14174,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 85.09 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cd8ef779-5f8d-4752-9a0b-efb14aaa1dfa)
-    (property "Reference" "#PWR?" (at 85.09 74.93 0)
+    (property "Reference" "#PWR0133" (at 85.09 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 85.09 81.28 0)
@@ -14182,7 +14190,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0133") (unit 1)
         )
       )
     )
@@ -14406,7 +14414,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 383.54 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d4ca07e9-0f62-44b4-b71a-de6fe548184e)
-    (property "Reference" "#PWR?" (at 383.54 139.7 0)
+    (property "Reference" "#PWR0145" (at 383.54 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 383.54 146.05 0)
@@ -14422,7 +14430,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0145") (unit 1)
         )
       )
     )
@@ -14654,7 +14662,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 378.46 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d86142d9-9feb-4ee7-98ab-7e7c9da36d32)
-    (property "Reference" "#PWR?" (at 378.46 55.88 0)
+    (property "Reference" "#PWR0147" (at 378.46 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 378.46 62.23 0)
@@ -14670,7 +14678,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0147") (unit 1)
         )
       )
     )
@@ -15554,7 +15562,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 378.46 198.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea7da4d0-ecc8-42de-9aa1-50b9c271dfc0)
-    (property "Reference" "#PWR?" (at 378.46 198.12 0)
+    (property "Reference" "#PWR0107" (at 378.46 198.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 378.46 204.47 0)
@@ -15570,7 +15578,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0107") (unit 1)
         )
       )
     )
@@ -15579,7 +15587,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 118.11 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ecf8f4cc-d054-435f-a13b-9c3983630649)
-    (property "Reference" "#PWR?" (at 118.11 57.15 0)
+    (property "Reference" "#PWR0127" (at 118.11 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 118.11 63.5 0)
@@ -15595,7 +15603,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0127") (unit 1)
         )
       )
     )
@@ -15604,7 +15612,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 100.33 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ed74a3d9-34ba-48c6-9333-4a8d92da1408)
-    (property "Reference" "#PWR?" (at 100.33 46.99 0)
+    (property "Reference" "#PWR0124" (at 100.33 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 100.33 53.34 0)
@@ -15620,7 +15628,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0124") (unit 1)
         )
       )
     )
@@ -15629,7 +15637,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 123.19 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid edc84ed7-f93b-4aff-b564-7d14adfa8181)
-    (property "Reference" "#PWR?" (at 123.19 179.07 0)
+    (property "Reference" "#PWR0123" (at 123.19 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 123.19 185.42 0)
@@ -15645,7 +15653,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0123") (unit 1)
         )
       )
     )
@@ -15788,7 +15796,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 368.3 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f2283a59-6134-4d45-a3bf-2addb8e91d16)
-    (property "Reference" "#PWR?" (at 368.3 114.3 0)
+    (property "Reference" "#PWR0146" (at 368.3 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 368.3 120.65 0)
@@ -15804,7 +15812,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0146") (unit 1)
         )
       )
     )
@@ -15813,7 +15821,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 332.74 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f24d1697-b98d-4fb8-9670-8348ad0f3810)
-    (property "Reference" "#PWR?" (at 332.74 55.88 0)
+    (property "Reference" "#PWR0150" (at 332.74 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 332.74 62.23 0)
@@ -15829,7 +15837,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0150") (unit 1)
         )
       )
     )
@@ -15885,7 +15893,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 276.86 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f4c026a4-d377-4bcf-962d-efea48c7e54c)
-    (property "Reference" "#PWR?" (at 276.86 114.3 0)
+    (property "Reference" "#PWR0144" (at 276.86 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 276.86 120.65 0)
@@ -15901,7 +15909,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0144") (unit 1)
         )
       )
     )
@@ -16008,7 +16016,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 337.82 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f62f7ffb-1634-48fe-af6f-fb3bf4bec167)
-    (property "Reference" "#PWR?" (at 337.82 139.7 0)
+    (property "Reference" "#PWR0152" (at 337.82 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 337.82 146.05 0)
@@ -16024,7 +16032,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0152") (unit 1)
         )
       )
     )
@@ -16033,7 +16041,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 203.2 236.0422 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f8361137-ed5f-440e-8b4b-60f1c48d2219)
-    (property "Reference" "#PWR?" (at 203.2 236.0422 0)
+    (property "Reference" "#PWR0114" (at 203.2 236.0422 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 203.2 242.3922 0)
@@ -16049,7 +16057,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0114") (unit 1)
         )
       )
     )
@@ -16350,7 +16358,7 @@
   (symbol (lib_id "MOTOR-altium-import:GND") (at 292.1 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fedcdef9-6761-4326-897d-3654d2ca0ab2)
-    (property "Reference" "#PWR?" (at 292.1 139.7 0)
+    (property "Reference" "#PWR0153" (at 292.1 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 292.1 146.05 0)
@@ -16366,7 +16374,7 @@
     (instances
       (project "manta50_80"
         (path "/300493fe-f7ad-41c2-9892-2c78b92d6b09"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0153") (unit 1)
         )
       )
     )
