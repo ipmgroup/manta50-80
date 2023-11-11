@@ -250,7 +250,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 7e541131-ccc9-4f5b-adcf-7cd0d14d0f76))
     (pad "2" smd rect (at 0.45 0 270) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp 4494c302-7bf0-4c7f-b9d8-d0ba01e2ed7b))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -292,7 +292,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 5a748b94-f746-4d15-9590-926cc87fc3d3))
     (pad "2" smd rect (at 0.45 0 90) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 20 "NetC29_2") (thermal_bridge_angle 45) (tstamp dacd2be0-5515-4c9c-a550-cd0e21ed6fca))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -334,7 +334,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp c4fdcbfb-b615-4dad-91e7-6e4b95931259))
     (pad "2" smd rect (at 0.45 0 180) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 16 "NetC34_2") (thermal_bridge_angle 45) (tstamp 52b211d5-0087-442e-90b6-81382c879692))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -376,7 +376,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 060d7529-e906-4af8-b085-0ce94291b07d))
     (pad "2" smd rect (at 0.45 0 270) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 26 "I_C") (thermal_bridge_angle 45) (tstamp 6688b9c2-ff16-4741-893e-36dc242978a1))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -555,7 +555,7 @@
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp 28463940-519d-46ef-a5ba-951f4e6bc407))
     (pad "49" smd roundrect (at 0 0 90) (size 5.17 5.17) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.01)
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 42a2854c-5c09-474f-b115-96d068b0a026))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/QFP50P900X900X120-49N.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/QFP50P900X900X120-49N.STEP"
       (offset (xyz 0.00011 0.00012 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -654,7 +654,7 @@
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp 363dd7d5-5c67-43ec-bd23-e41951294edf))
     (pad "6" smd roundrect (at 1.2 -0.95 90) (size 0.55 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 83 "VSEN_B") (thermal_bridge_angle 45) (tstamp acfbb770-c4b5-4992-9b45-bd391a4f314f))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/TSOP6.stp"
+    (model "${KIPRJMOD}/3D_MODELS/TSOP6.stp"
       (offset (xyz 0.00012 0.00005 0.762))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -754,7 +754,7 @@
       (net 67 "PVDD") (solder_paste_margin -0.3) (thermal_bridge_angle 45) (tstamp 8c412fa9-e1e6-4f51-803d-9f966b1fc5f7))
     (pad "8" smd rect (at 2.7763 -1.905 180) (size 0.71 0.59) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 67 "PVDD") (solder_paste_margin -0.3) (thermal_bridge_angle 45) (tstamp 951af7bc-fe24-405d-97b2-93020a1dae9c))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/PG-TDSON-8_(INFIN).STEP"
+    (model "${KIPRJMOD}/3D_MODELS/PG-TDSON-8_(INFIN).STEP"
       (offset (xyz 0.25005 0.00008 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 90))
@@ -841,7 +841,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 6796223b-d7f4-48a5-90a4-56eb28ca722e))
     (pad "2" smd rect (at 0.45 0) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 18 "NetC32_2") (thermal_bridge_angle 45) (tstamp d9e3de14-5dc9-44e1-b75b-784181e46a69))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -941,7 +941,7 @@
       (net 54 "MOT_C") (solder_paste_margin -0.3) (thermal_bridge_angle 45) (tstamp 293002ef-49d6-4343-8073-775b3463ba74))
     (pad "8" smd rect (at 2.7763 -1.905) (size 0.71 0.59) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 54 "MOT_C") (solder_paste_margin -0.3) (thermal_bridge_angle 45) (tstamp 9391493d-412c-4478-8c14-837011f71df3))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/PG-TDSON-8_(INFIN).STEP"
+    (model "${KIPRJMOD}/3D_MODELS/PG-TDSON-8_(INFIN).STEP"
       (offset (xyz 0.25006 0.00008 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 90))
@@ -1086,7 +1086,7 @@
       (net 52 "MOT_A") (solder_paste_margin -0.3) (thermal_bridge_angle 45) (tstamp 119ee58d-ffe5-4579-baaa-7bc2dfc4e8ec))
     (pad "8" smd rect (at 2.7763 -1.905) (size 0.71 0.59) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 52 "MOT_A") (solder_paste_margin -0.3) (thermal_bridge_angle 45) (tstamp 21f11e77-4667-4a10-a8eb-340b8f28c27f))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/PG-TDSON-8_(INFIN).STEP"
+    (model "${KIPRJMOD}/3D_MODELS/PG-TDSON-8_(INFIN).STEP"
       (offset (xyz 0.25006 0.00008 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 90))
@@ -1247,7 +1247,7 @@
       (net 21 "NetC28_2") (thermal_bridge_angle 45) (tstamp 62e293b6-5161-4073-8d4f-109e2195791b))
     (pad "2" smd rect (at 0.46 0) (size 0.62 0.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp d2a122f9-c260-4c48-a0f3-184a8c4dac7f))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/INDC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/INDC1005X55N.stp"
       (offset (xyz 0.00005 0.00005 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -1291,7 +1291,7 @@
       (net 28 "I_A") (thermal_bridge_angle 45) (tstamp 825abda2-5609-4b9f-9829-f9e9388d0032))
     (pad "2" smd rect (at 0.47 0 180) (size 0.62 0.58) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 49 "ISEN_A") (thermal_bridge_angle 45) (tstamp b2e5680b-eb01-4aa3-9b55-0e6e12cd92df))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/RESC1005X40N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/RESC1005X40N.stp"
       (offset (xyz 0.00007 0.00004 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -1484,7 +1484,7 @@
       (net 14 "CANH") (thermal_bridge_angle 45) (tstamp a14bc1f9-df46-4322-99fa-4b58ab10cca6))
     (pad "2" smd rect (at 1 0) (size 0.95 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 15 "CANL") (thermal_bridge_angle 45) (tstamp d461424f-4669-4f93-91cb-1d9abd1e2c8a))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/RESC2012X60N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/RESC2012X60N.stp"
       (offset (xyz 0.00006 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -1526,7 +1526,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp d188d29d-14b2-4f63-bb5d-2d8eb52cf953))
     (pad "2" smd rect (at 0.8 0 270) (size 0.95 1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp 4ca84fe1-6bde-49e4-a310-134d2322f91a))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1608X87N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1608X87N.stp"
       (offset (xyz 0.00004 0.00008 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -1568,7 +1568,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 021287e3-93b7-40df-b64c-37c2b1b88382))
     (pad "2" smd rect (at 0.45 0) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp 7cb2fe7a-6831-450a-90ea-b9685043c7b3))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -1716,7 +1716,7 @@
       (net 66 "NFAULT") (thermal_bridge_angle 45) (tstamp d5ab45a5-f54f-405a-b26e-51a0674c6dbb))
     (pad "48" smd roundrect (at -2.75 -4.225 90) (size 0.3 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 22 "NCAN_INT") (thermal_bridge_angle 45) (tstamp 6326b0b5-4407-451c-a803-74fd431719b1))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/User Library-LQFP48-2.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/User Library-LQFP48-2.STEP"
       (offset (xyz 0.05316 -0.00353 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1816,7 +1816,7 @@
       (net 53 "MOT_B") (solder_paste_margin -0.3) (thermal_bridge_angle 45) (tstamp cf8ebdc0-d04c-4c55-be9c-43c3f2a6e65c))
     (pad "8" smd rect (at 2.7763 -1.905) (size 0.71 0.59) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 53 "MOT_B") (solder_paste_margin -0.3) (thermal_bridge_angle 45) (tstamp 1b54190a-a471-4a21-ace4-927ae5ba77cf))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/PG-TDSON-8_(INFIN).STEP"
+    (model "${KIPRJMOD}/3D_MODELS/PG-TDSON-8_(INFIN).STEP"
       (offset (xyz 0.25006 0.00008 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 90))
@@ -1913,7 +1913,7 @@
       (net 16 "NetC34_2") (thermal_bridge_angle 45) (tstamp cb8e72d4-a5c8-4a04-a2da-8d1ac2c1f967))
     (pad "4" smd rect (at -1.15 -0.9398 180) (size 1.0668 1.3208) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 50508088-2464-4b83-b470-da7c79fd1245))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/GeyerElectronics_KX7.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/GeyerElectronics_KX7.STEP"
       (offset (xyz 0.00008 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 0 0))
@@ -1955,7 +1955,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 1a789ffc-9951-433c-859a-863b6460c998))
     (pad "2" smd rect (at 0.45 0 270) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 27 "I_B") (thermal_bridge_angle 45) (tstamp b36252fe-56c5-41b0-9907-4c7bd093f3bc))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -2148,7 +2148,7 @@
       (net 10 "SCS2") (thermal_bridge_angle 45) (tstamp f47d474e-7b27-4f73-aef6-45b302665503))
     (pad "6" smd roundrect (at 1.425 -0.95 90) (size 0.6 1.05) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp 3e0b33ab-dc1f-4f1f-964b-e00ce2a0e3f4))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/SOT23-6-2.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/SOT23-6-2.STEP"
       (offset (xyz 0 -0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 -0 0))
@@ -2192,7 +2192,7 @@
       (net 27 "I_B") (thermal_bridge_angle 45) (tstamp 1e19fb0c-f9e4-4f8b-8385-61a9de75cde3))
     (pad "2" smd rect (at 0.47 0 180) (size 0.62 0.58) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 50 "ISEN_B") (thermal_bridge_angle 45) (tstamp 00581a04-7879-4917-a9c9-5594ad34ebc7))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/RESC1005X40N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/RESC1005X40N.stp"
       (offset (xyz 0.00007 0.00004 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -2400,7 +2400,7 @@
       (net 26 "I_C") (thermal_bridge_angle 45) (tstamp 4f2bf73c-47ec-49a2-88aa-53ede98582e8))
     (pad "2" smd rect (at 0.47 0 180) (size 0.62 0.58) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 51 "ISEN_C") (thermal_bridge_angle 45) (tstamp 3264e729-e556-42f1-9dc6-f2e1831daa01))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/RESC1005X40N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/RESC1005X40N.stp"
       (offset (xyz 0.00007 0.00004 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -2529,7 +2529,7 @@
       (net 31 "CAN_RX") (thermal_bridge_angle 45) (tstamp 7e8f31b7-7730-461f-8519-31cb7a9634a1))
     (pad "21" smd rect (at 0 0 180) (size 2.7 2.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (thermal_bridge_angle 45) (tstamp 3dff2c93-9d9f-4006-a151-115acc5e73e8))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/QFN4x4_20pins.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/QFN4x4_20pins.STEP"
       (offset (xyz 0.00012 0.00011 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 0 0))
@@ -2645,7 +2645,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp a1454c79-291d-472c-8a5b-074fa885c045))
     (pad "2" smd rect (at 0.45 0 270) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 17 "NetC33_2") (thermal_bridge_angle 45) (tstamp 1444f035-a0c5-4356-bbae-32b01566177f))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -2687,7 +2687,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 0a71feea-27b8-4113-8488-b7edc9206cb3))
     (pad "2" smd rect (at 0.45 0 270) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 28 "I_A") (thermal_bridge_angle 45) (tstamp a97e0c9b-bf17-4db3-9735-f9c6c7aa232f))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -2787,7 +2787,7 @@
       (net 67 "PVDD") (solder_paste_margin -0.3) (thermal_bridge_angle 45) (tstamp ebc71a75-097f-4941-be0c-9915ff45eea1))
     (pad "8" smd rect (at 2.7763 -1.905 180) (size 0.71 0.59) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 67 "PVDD") (solder_paste_margin -0.3) (thermal_bridge_angle 45) (tstamp b3fbf615-f40b-400e-bb9c-29d8fc4b4dd2))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/PG-TDSON-8_(INFIN).STEP"
+    (model "${KIPRJMOD}/3D_MODELS/PG-TDSON-8_(INFIN).STEP"
       (offset (xyz 0.25005 0.00008 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 90))
@@ -3006,7 +3006,7 @@
       (net 81 "S3_P") (thermal_bridge_angle 45) (tstamp 025b9ac6-79c8-4d98-aeb5-1daad3c6622e))
     (pad "2" smd rect (at 0.45 0) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 78 "S3_N") (thermal_bridge_angle 45) (tstamp d65a804a-3deb-44c5-bb2a-2d247d3e3948))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -3108,7 +3108,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 67fe2668-e108-416a-a04c-a937624f7adc))
     (pad "2" smd rect (at 0.47 0 90) (size 0.62 0.58) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 5 "TRSTN") (thermal_bridge_angle 45) (tstamp e6c12f71-7958-4e2a-9443-01eb62406381))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/RESC1005X40N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/RESC1005X40N.stp"
       (offset (xyz 0.00007 0.00004 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -3150,7 +3150,7 @@
       (net 79 "S1_P") (thermal_bridge_angle 45) (tstamp 8fa9406f-ffff-4982-8d55-cd9c0521ea99))
     (pad "2" smd rect (at 0.45 0) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 76 "S1_N") (thermal_bridge_angle 45) (tstamp 24ae7d80-56ed-4a6e-854f-41a797cd0849))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -3341,7 +3341,7 @@
       (net 80 "S2_P") (thermal_bridge_angle 45) (tstamp 1ec38f58-891e-4a92-b366-8cc112efd5ef))
     (pad "2" smd rect (at 0.45 0) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 77 "S2_N") (thermal_bridge_angle 45) (tstamp d7ef10a6-e63f-4d6a-96a4-6a9d24cae1d4))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -3383,7 +3383,7 @@
       (net 18 "NetC32_2") (thermal_bridge_angle 45) (tstamp 3ba69b45-29d5-4fe5-9b3b-68ee2f5f4a11))
     (pad "2" smd rect (at 0.46 0 270) (size 0.62 0.6) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp 02b2c765-bdff-4198-80ac-7a9346a12850))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/INDC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/INDC1005X55N.stp"
       (offset (xyz 0.00005 0.00005 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -3528,7 +3528,7 @@
       (net 67 "PVDD") (solder_paste_margin -0.3) (thermal_bridge_angle 45) (tstamp cfe2562c-bfad-4723-9f26-970df189cefc))
     (pad "8" smd rect (at 2.7763 -1.905 180) (size 0.71 0.59) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 67 "PVDD") (solder_paste_margin -0.3) (thermal_bridge_angle 45) (tstamp 288bd539-11bf-416a-9de1-e77106b98a8d))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/PG-TDSON-8_(INFIN).STEP"
+    (model "${KIPRJMOD}/3D_MODELS/PG-TDSON-8_(INFIN).STEP"
       (offset (xyz 0.25005 0.00008 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 90))
@@ -3627,7 +3627,7 @@
       (net 14 "CANH") (thermal_bridge_angle 45) (tstamp d0eaac84-7cbb-468b-aa7e-6e25c94d6854))
     (pad "3" smd rect (at 1.05 0 90) (size 0.6 1.3) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp c1c519ef-1664-43b7-8a67-a9184660876e))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/SOT23.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/SOT23.STEP"
       (offset (xyz 0.00009 0.00006 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 0 0))
@@ -3714,7 +3714,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp a48d3713-0cdc-4ee8-bc61-74c059220233))
     (pad "2" smd rect (at 0.45 0 180) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 19 "NetC30_2") (thermal_bridge_angle 45) (tstamp ff995c19-81a8-4ec7-a7b0-ca24ea9d85c9))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -3904,7 +3904,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 37a6accf-7fb9-4709-b6e2-aee7492567f5))
     (pad "2" smd rect (at 0.45 0 180) (size 0.62 0.62) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 21 "NetC28_2") (thermal_bridge_angle 45) (tstamp d7eaa0e9-337d-438d-a8b4-309bcf9d6c7d))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -4071,7 +4071,7 @@
       (net 29 "ECAP1") (thermal_bridge_angle 45) (tstamp f5a223eb-e5ec-4e2e-ab9a-da1b2d2d833b))
     (pad "5" smd rect (at 0.7 0.5 90) (size 0.3 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp c4e3afdb-75e9-4992-9dac-64e259f7b791))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/R-PDSO-N5.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/R-PDSO-N5.STEP"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -4117,7 +4117,7 @@
       (net 87 "NetC26_1") (thermal_bridge_angle 45) (tstamp 018b2f4f-a515-4f1f-948d-340a1d6f5b87))
     (pad "2" smd rect (at 1.6375 0) (size 0.915 1.22) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 4bf94d7f-461a-4073-8355-bfd7f1b45035))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/SOD-123FL.stp"
+    (model "${KIPRJMOD}/3D_MODELS/SOD-123FL.stp"
       (offset (xyz 0.00008 0.00008 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -4137,7 +4137,7 @@
     )
     (pad "1" smd rect (at 0 0 270) (size 4 5) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 54 "MOT_C") (thermal_bridge_angle 45) (tstamp 3064b219-49ff-4be1-b67c-628cd074ff6b))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/PIN4x5.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/PIN4x5.STEP"
       (offset (xyz 0.00008 0.0001 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -4247,7 +4247,7 @@
       (net 13 "ESC") (tstamp 2ac53af3-b097-429c-ab35-32b8bb79df4c))
     (pad "6" thru_hole circle (at -4 -2 180) (size 1.4 1.4) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 42 "GND") (tstamp 804a32cf-7b0b-4a11-a4b7-c4accba81e8f))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/98414-G06-06LF.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/98414-G06-06LF.STEP"
       (offset (xyz 0.00011 0.00011 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 0 0))
@@ -4267,7 +4267,7 @@
     )
     (pad "1" smd rect (at 0 0) (size 4 5) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp c9491548-2592-46d3-a214-81a52fa34ed3))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/PIN4x5.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/PIN4x5.STEP"
       (offset (xyz 0.00008 0.0001 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 -0 0))
@@ -4309,7 +4309,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp f62aa0a9-3de3-407b-bfbf-ebabc55dcb73))
     (pad "2" smd rect (at 0.45 0 180) (size 0.62 0.62) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp 8726938a-0d7e-4814-b5d0-19baccd3323a))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1005X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1005X55N.stp"
       (offset (xyz 0.00005 0.00007 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -4473,7 +4473,7 @@
       (net 67 "PVDD") (thermal_bridge_angle 45) (tstamp ded89691-447e-4238-8fdf-de366c1d40c5))
     (pad "6" smd roundrect (at 1.375 0.95 180) (size 0.6 1) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 87 "NetC26_1") (thermal_bridge_angle 45) (tstamp bc23d082-4378-4101-8d6e-aa49fdf6ec60))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/SOT23-6-2.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/SOT23-6-2.STEP"
       (offset (xyz 0.00008 0.00009 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 0))
@@ -4670,7 +4670,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp d2042e0a-d4b0-47b5-8a49-129da4e6ed57))
     (pad "2" smd rect (at 0.8 0) (size 0.95 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp a22fa8ef-356d-478b-aea3-37dbd07acfc6))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1608X87N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1608X87N.stp"
       (offset (xyz 0.00004 0.00008 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -4712,7 +4712,7 @@
       (net 89 "NetR20_1") (thermal_bridge_angle 45) (tstamp 0f99d6a9-14e0-4913-9e4e-6627a2be9fff))
     (pad "2" smd rect (at 0.8 0 180) (size 0.9 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp a9d1ba64-4ca8-48b8-a610-e25ecd7b82ab))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/RESC1608X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/RESC1608X55N.stp"
       (offset (xyz 0.00005 0.00006 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 0 0))
@@ -4840,7 +4840,7 @@
       (net 14 "CANH") (thermal_bridge_angle 45) (tstamp 5e5c65b0-b304-478d-948c-5c931e7c1648))
     (pad "8" smd roundrect (at 2.3622 1.905 270) (size 1.9812 0.5588) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (thermal_bridge_angle 45) (tstamp 27a8ac79-8648-4cd5-9f6b-345ce7a76e53))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/SOIC-8.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/SOIC-8.STEP"
       (offset (xyz 0.00007 0.00009 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 90))
@@ -4882,7 +4882,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp ff47afae-8558-4368-bf3e-2127e5535bfb))
     (pad "2" smd rect (at 0.8 0 270) (size 0.9 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 4 "HIH") (thermal_bridge_angle 45) (tstamp 2a491d77-b6f7-4d92-9a54-1053309c5c52))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/RESC1608X55N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/RESC1608X55N.stp"
       (offset (xyz 0.00005 0.00006 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 0 0))
@@ -4924,7 +4924,7 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp ccb2a299-3391-4960-ac25-8f5f424cacec))
     (pad "2" smd rect (at 0.8 0 90) (size 0.95 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp 15892895-ce8e-41b8-87d3-aa783edef1e5))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/CAPC1608X87N.stp"
+    (model "${KIPRJMOD}/3D_MODELS/CAPC1608X87N.stp"
       (offset (xyz 0.00004 0.00008 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 -0 0))
@@ -5025,7 +5025,7 @@
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp bbbc4448-be37-4ebe-afba-8742a54250a1))
     (pad "4" smd rect (at 5.8 0) (size 2.45 2.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (thermal_bridge_angle 45) (tstamp 86728cfd-f1e5-4725-bef1-5cc54cbe9bcb))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/Honeywell HIH-5031-1.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/Honeywell HIH-5031-1.STEP"
       (offset (xyz 0.0001 0.00009 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -0 0 0))
@@ -5082,7 +5082,7 @@
     )
     (pad "1" smd rect (at 0 0 270) (size 4 5) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 53 "MOT_B") (thermal_bridge_angle 45) (tstamp ff4227fe-26f6-43c3-b36b-23fb9d2c9d85))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/PIN4x5.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/PIN4x5.STEP"
       (offset (xyz 0.00008 0.0001 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -5322,7 +5322,7 @@
     )
     (pad "1" smd rect (at 0 0 270) (size 4 5) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 52 "MOT_A") (thermal_bridge_angle 45) (tstamp 0461378b-b84c-4a78-aae6-0bcae8c96ad0))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/PIN4x5.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/PIN4x5.STEP"
       (offset (xyz 0.00008 0.0001 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -5522,7 +5522,7 @@
     )
     (pad "1" smd rect (at 0 0 90) (size 4 5) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 67 "PVDD") (thermal_bridge_angle 45) (tstamp 5864dbeb-64c8-4e62-982d-b7bb8045845c))
-    (model "${KIPRJMOD}/ALTIUM_EMBEDDED_MODELS/PIN4x5.STEP"
+    (model "${KIPRJMOD}/3D_MODELS/PIN4x5.STEP"
       (offset (xyz 0.00008 0.0001 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
