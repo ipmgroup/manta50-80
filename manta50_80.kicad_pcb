@@ -213,6 +213,11 @@
       (net 65 "NetR2_1") (thermal_bridge_angle 45) (tstamp a075061b-fbed-483c-9092-a36af07a4c40))
     (pad "2" smd rect (at 0.7 0 270) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 67 "PVDD") (thermal_bridge_angle 45) (tstamp 0535b47f-8dc6-415e-9f78-1b3dad063c78))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "D:_Users_Public_Documents_Altium_AD15_Library_CernLib_PcbLib_Capacitors SMD.PcbLib_CAPC1005X55N" (layer "F.Cu")
@@ -605,6 +610,11 @@
       (net 84 "VSEN_C") (thermal_bridge_angle 45) (tstamp 71c745f1-7527-4428-960d-08285f31fc81))
     (pad "2" smd rect (at 0.7 0 90) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 54 "MOT_C") (thermal_bridge_angle 45) (tstamp 3a1af52d-fb60-4124-9ebf-77b0f6036975))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Other_Passive.IntLib:TSOP-6" (layer "F.Cu")
@@ -804,6 +814,11 @@
       (net 82 "VSEN_A") (thermal_bridge_angle 45) (tstamp 9177f01a-93b5-4986-8ff3-5d7a73c0a957))
     (pad "2" smd rect (at 0.7 0 90) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 52 "MOT_A") (thermal_bridge_angle 45) (tstamp b7455cf7-0944-4062-98e7-ea5aa09f53d8))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "D:_Users_Public_Documents_Altium_AD15_Library_CernLib_PcbLib_Capacitors SMD.PcbLib_CAPC1005X55N" (layer "F.Cu")
@@ -1136,6 +1151,11 @@
       (net 83 "VSEN_B") (thermal_bridge_angle 45) (tstamp 4d3dd06d-1bf4-47c4-bd31-d93bbe598f9e))
     (pad "2" smd rect (at 0.7 0 90) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 53 "MOT_B") (thermal_bridge_angle 45) (tstamp 1d75a60e-c203-4c7a-b009-430a76e2d55e))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_Ceramic.IntLib:0603L" (layer "F.Cu")
@@ -1181,6 +1201,16 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 7f07768d-1ba0-4fa1-8a21-5e43dadb9e1d))
     (pad "2" smd rect (at 0.7 0) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "NetC17_2") (thermal_bridge_angle 45) (tstamp c19424ae-9f55-46b7-ad71-93461aff07dc))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl" hide
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "MiscParts.IntLib:NET-TIE_10MIL" (layer "F.Cu")
@@ -1400,6 +1430,11 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 313ec3c1-9562-42f2-9821-d7853eecaec0))
     (pad "2" smd rect (at 0.7 0 270) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 82 "VSEN_A") (thermal_bridge_angle 45) (tstamp 2922918c-dc95-4398-b924-08e76b6ecb3b))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_Ceramic.IntLib:0603L" (layer "F.Cu")
@@ -1445,6 +1480,11 @@
       (net 83 "VSEN_B") (thermal_bridge_angle 45) (tstamp 5ba9463e-5679-4a16-9296-02ad70bf5171))
     (pad "2" smd rect (at 0.7 0 90) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 65902602-a577-4d75-aeae-7665096f0114))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "D:_Users_Public_Documents_Altium_AD15_Library_CernLib_PcbLib_Resistors SMD.PcbLib_RESC2012X60N" (layer "F.Cu")
@@ -1866,6 +1906,11 @@
       (net 84 "VSEN_C") (thermal_bridge_angle 45) (tstamp d020673f-3eed-4400-a0c2-e4f7e9e2fea6))
     (pad "2" smd rect (at 0.7 0 90) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 5e73b5ce-a9a0-4351-b35c-7f11c8031614))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "My_PCB.PcbLib:CRYSTAL-3.2-2.5" (layer "F.Cu")
@@ -2034,6 +2079,11 @@
       (net 82 "VSEN_A") (thermal_bridge_angle 45) (tstamp 89f1af2d-39ef-47f9-ba64-2b99bf855a78))
     (pad "2" smd rect (at 0.7 0 90) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp f46fa5b9-17eb-487e-a162-fc17232ae5b9))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "My_PCB.PcbLib:FIDUCIAL10-20" (layer "F.Cu")
@@ -2242,6 +2292,11 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp bcbc075c-2322-4acf-acec-03d43e282080))
     (pad "2" smd rect (at 0.7 0 90) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 34 "DVDD") (thermal_bridge_angle 45) (tstamp 385d3a0d-f633-4362-bbd9-f975d91a6c17))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_Ceramic.IntLib:0603L" (layer "F.Cu")
@@ -2287,6 +2342,11 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 8080ea61-4aac-41f1-a302-bd69d18165c0))
     (pad "2" smd rect (at 0.7 0 180) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp d1fbdd37-57b8-4e73-ae0d-46276f21da64))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "MiscParts.IntLib:NET-TIE_10MIL" (layer "F.Cu")
@@ -2361,6 +2421,11 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp ab8ef59b-0976-4a79-9615-945cb6b771ff))
     (pad "2" smd rect (at 0.7 0 270) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 84 "VSEN_C") (thermal_bridge_angle 45) (tstamp 998359dc-c382-4796-ba4a-80318766845e))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistors.DbLib/Resistors SMD:RESC1005X40N" (layer "F.Cu")
@@ -2608,6 +2673,11 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp cf3b02a6-fab3-4aa0-9453-e9bde01584b3))
     (pad "2" smd rect (at 2.85 0 90) (size 3.3 1.1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 62 "NetNT4_2") (thermal_bridge_angle 45) (tstamp d4ba120d-cbaa-4f74-8eb3-e9d765557d01))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_2512_6332Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitors.DbLib/Capacitors SMD:CAPC1005X55N" (layer "F.Cu")
@@ -2895,6 +2965,11 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 8da0283f-f22c-456d-9eab-0466910cb6a0))
     (pad "2" smd rect (at 1.35 0 90) (size 1.75 1.1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 67 "PVDD") (thermal_bridge_angle 45) (tstamp 60016825-2cd8-4e4e-9455-ee7684c5dacb))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_2512.IntLib:2512L" (layer "F.Cu")
@@ -2940,6 +3015,11 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 79e3eb19-abc2-4811-9a39-aa10982a1cb0))
     (pad "2" smd rect (at 2.85 0 90) (size 3.3 1.1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 63 "NetNT5_2") (thermal_bridge_angle 45) (tstamp 4958dcd3-10a8-4911-96f0-b4130c7beaa4))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_2512_6332Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "MiscParts.IntLib:NET-TIE_10MIL" (layer "F.Cu")
@@ -3245,6 +3325,11 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 7d26f1b7-db2b-4457-bee1-60248638bc76))
     (pad "2" smd rect (at 2.85 0 90) (size 3.3 1.1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 64 "NetNT6_2") (thermal_bridge_angle 45) (tstamp afcf085c-c3a1-4e5e-9971-480c36516dad))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_2512_6332Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "My_PCB.PcbLib:FIDUCIAL10-20" (layer "F.Cu")
@@ -3433,6 +3518,11 @@
       (net 57 "NetC7_1") (thermal_bridge_angle 45) (tstamp dccb9c4c-f09d-48b8-87fd-091d9c1f96f3))
     (pad "2" smd rect (at 0.7 0 270) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 58 "NetC7_2") (thermal_bridge_angle 45) (tstamp 0ad5a4c5-5428-4227-923e-718be07acb03))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "My_PCB.PcbLib:TRANS_NEXFET_Q5B" (layer "F.Cu")
@@ -3578,6 +3668,11 @@
       (net 55 "NetC2_1") (thermal_bridge_angle 45) (tstamp 509dc7e3-9564-4c1e-a471-1416b605fd3d))
     (pad "2" smd rect (at 0.7 0 270) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 56 "NetC2_2") (thermal_bridge_angle 45) (tstamp 8712f7e6-5686-4c7a-adc0-7b1853d3b5b6))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "My_PCB.PcbLib:SOT23_N" (layer "F.Cu")
@@ -3677,6 +3772,11 @@
       (net 67 "PVDD") (thermal_bridge_angle 45) (tstamp 2656d0f4-bdf2-4eea-92ff-eb5accb549af))
     (pad "2" smd rect (at 1.35 0 90) (size 2.6 1.1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 59 "NetC15_2") (thermal_bridge_angle 45) (tstamp ed4c8584-134e-4efa-ac01-c9323faa4be5))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "D:_Users_Public_Documents_Altium_AD15_Library_CernLib_PcbLib_Capacitors SMD.PcbLib_CAPC1005X55N" (layer "F.Cu")
@@ -3838,6 +3938,11 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp cda6b2a9-fc4a-46a1-a9f5-5f54dc809f89))
     (pad "2" smd rect (at 0.7 0 270) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 83 "VSEN_B") (thermal_bridge_angle 45) (tstamp 4e63b4c2-b599-4747-b4cb-99368fff4e20))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "MiscParts.IntLib:NET-TIE_10MIL" (layer "F.Cu")
@@ -3954,6 +4059,11 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 27763482-cb94-4bf5-bd94-a145dbd6951b))
     (pad "2" smd rect (at 0.7 0 180) (size 0.85 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 33 "AVDD") (thermal_bridge_angle 45) (tstamp e0e05751-e65f-4a40-87db-201057c7cfee))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "My_PCB.PcbLib:TAG_TC2050-NL" (layer "B.Cu")
@@ -4418,6 +4528,16 @@
       (net 85 "VSEN_PVDD") (thermal_bridge_angle 45) (tstamp e1b1531c-8ed2-47dc-874b-2928d4f5346a))
     (pad "2" smd rect (at 0.7 0 270) (size 0.85 0.8) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 3c8c24fb-c481-4d9d-b5fa-563da94f1ae4))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "My_PCB.PcbLib:SOT95P280X110-6N" (layer "B.Cu")
@@ -4582,6 +4702,11 @@
       (net 12 "NRESET") (thermal_bridge_angle 45) (tstamp ba9a030a-2ae9-4239-b25a-fcf5b533febc))
     (pad "2" smd rect (at 0.7 0 180) (size 0.85 0.8) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp 27cd1395-09a3-42a8-8399-0df6ce629910))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_Aluminum.IntLib:SM_RADIAL_G" (layer "B.Cu")
@@ -4633,6 +4758,11 @@
       (net 67 "PVDD") (thermal_bridge_angle 45) (tstamp 3f096db4-1f25-4ad1-b393-7d7439eff9a3))
     (pad "2" smd rect (at 4.35 0 90) (size 4.1 2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 83360ff6-5a82-4f14-9d07-effd2b86861c))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/CP_Elec_10x10.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "D:_Users_Public_Documents_Altium_AD15_Library_CernLib_PcbLib_Capacitors SMD.PcbLib_CAPC1608X87N" (layer "B.Cu")
@@ -4762,6 +4892,11 @@
       (net 85 "VSEN_PVDD") (thermal_bridge_angle 45) (tstamp 7c8871c6-a2d0-4dad-9171-a681dfab16a5))
     (pad "2" smd rect (at 0.7 0 270) (size 0.85 0.8) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 67 "PVDD") (thermal_bridge_angle 45) (tstamp 2d7fe2ec-5c62-4871-ab3f-54a3018109e8))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "LED.IntLib:LED_LTST-C170" (layer "B.Cu")
@@ -4799,6 +4934,11 @@
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp 486bffb2-72ca-41cf-b60c-81c43ad957d6))
     (pad "2" smd rect (at 1.05 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 60 "NetD1_2") (thermal_bridge_angle 45) (tstamp d0008b6d-89e0-4128-8234-779cda6db308))
+    (model ":KICAD7_3DMODEL_DIR:LED_SMD.3dshapes/LED_1206_3216Metric_Castellated.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "My_PCB.PcbLib:SOIC8-N_MC" (layer "B.Cu")
@@ -4974,6 +5114,11 @@
       (net 66 "NFAULT") (thermal_bridge_angle 45) (tstamp 33de870e-1eeb-4b9c-a2e6-ebfdb03acdff))
     (pad "2" smd rect (at 0.7 0 270) (size 0.85 0.8) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 60 "NetD1_2") (thermal_bridge_angle 45) (tstamp 7aa825c1-ba01-4bf8-b770-19e12c4f14a4))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "My_PCB.PcbLib:SOT127P1291X295-4N" (layer "B.Cu")
@@ -5067,6 +5212,16 @@
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp e013678d-a35f-4f9f-b27e-0db1e0e52dc5))
     (pad "2" smd rect (at 1.05 0 180) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 61 "NetD3_2") (thermal_bridge_angle 45) (tstamp bb5f0b1a-b55e-4564-81f5-f5eb7dd36154))
+    (model ":KICAD7_3DMODEL_DIR:LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model ":KICAD7_3DMODEL_DIR:LED_SMD.3dshapes/LED_1206_3216Metric_Castellated.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "My_PCB.PcbLib:J_PIN_4X5" (layer "B.Cu")
@@ -5132,6 +5287,11 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp c0fc331b-c62d-42d8-ba9d-93e54c137ea1))
     (pad "2" smd rect (at 0.7 0 90) (size 0.85 0.8) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 85 "VSEN_PVDD") (thermal_bridge_angle 45) (tstamp ac8a199f-c5ff-4c66-af44-94442e579644))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_Aluminum.IntLib:SM_RADIAL_G" (layer "B.Cu")
@@ -5183,6 +5343,11 @@
       (net 67 "PVDD") (thermal_bridge_angle 45) (tstamp 8aa9bf49-6d9d-4059-ab0d-787e850171b9))
     (pad "2" smd rect (at 4.35 0 90) (size 4.1 2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp dca27e85-adea-45d2-9a9f-493504e7124d))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/CP_Elec_10x10.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Inductor_Other.IntLib:SD53" (layer "B.Cu")
@@ -5248,6 +5413,11 @@
       (net 87 "NetC26_1") (thermal_bridge_angle 45) (tstamp 693e8006-e8e6-49cf-9b96-51b8fc137986))
     (pad "2" smd rect (at 2.5 0 90) (size 1 2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp 73f2e142-df39-4d3d-8372-7dd4a2dd4b28))
+    (model "${KIPRJMOD}/3D_MODELS/SD53.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "My_PCB.PcbLib:FIDUCIAL10-20" (layer "B.Cu")
@@ -5372,6 +5542,11 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 8a318d21-6f46-4724-9e6b-064d78c5f3b6))
     (pad "2" smd rect (at 0.7 0 270) (size 0.85 0.8) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 89 "NetR20_1") (thermal_bridge_angle 45) (tstamp 6c6cb1dd-9fbd-486d-9c2e-655f304eef0b))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_Ceramic.IntLib:0603L" (layer "B.Cu")
@@ -5417,6 +5592,11 @@
       (net 87 "NetC26_1") (thermal_bridge_angle 45) (tstamp a3da724b-b204-458b-937a-e9fac84d8478))
     (pad "2" smd rect (at 0.7 0) (size 0.85 0.8) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 88 "NetC26_2") (thermal_bridge_angle 45) (tstamp d2e01a5b-45fa-46b3-a195-c90d843630ac))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_Ceramic.IntLib:0603L" (layer "B.Cu")
@@ -5462,6 +5642,11 @@
       (net 67 "PVDD") (thermal_bridge_angle 45) (tstamp 81da44c7-a456-432c-a0f9-b9b34dbe7bfc))
     (pad "2" smd rect (at 0.7 0 90) (size 0.85 0.8) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp e6b65f18-2a1c-4278-bc6f-a3eb3a0d3b9d))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_0603.IntLib:0603L" (layer "B.Cu")
@@ -5507,6 +5692,11 @@
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 752b2300-d07e-4dc5-8ae0-8a1e4427da00))
     (pad "2" smd rect (at 0.7 0 180) (size 0.85 0.8) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 61 "NetD3_2") (thermal_bridge_angle 45) (tstamp 8fa6ff42-dade-44c5-be5e-a1ee563bb70c))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "My_PCB.PcbLib:J_PIN_4X5" (layer "B.Cu")
@@ -5572,6 +5762,11 @@
       (net 66 "NFAULT") (thermal_bridge_angle 45) (tstamp b1a6819e-57e2-48b9-84fd-ee8e51f8c626))
     (pad "2" smd rect (at 0.7 0 270) (size 0.85 0.8) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp 8c167178-4bd4-424f-8aca-f6a75114f93a))
+    (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_Ceramic.IntLib:1206L" (layer "B.Cu")
@@ -5617,6 +5812,11 @@
       (net 32 "3.3V") (thermal_bridge_angle 45) (tstamp acbea0b8-eba5-4647-bd2b-c13993ede5f3))
     (pad "2" smd rect (at 1.35 0 90) (size 1.75 1.1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 42 "GND") (thermal_bridge_angle 45) (tstamp 7b36b838-d192-477c-a498-2eac3d89f1ad))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (gr_poly
